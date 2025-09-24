@@ -1,0 +1,14 @@
+/home/Coder/Documentos/csharp/gestionEmpleados/bin/Debug/net9.0/gestionEmpleados
+/home/Coder/Documentos/csharp/gestionEmpleados/bin/Debug/net9.0/gestionEmpleados.deps.json
+/home/Coder/Documentos/csharp/gestionEmpleados/bin/Debug/net9.0/gestionEmpleados.runtimeconfig.json
+/home/Coder/Documentos/csharp/gestionEmpleados/bin/Debug/net9.0/gestionEmpleados.dll
+/home/Coder/Documentos/csharp/gestionEmpleados/bin/Debug/net9.0/gestionEmpleados.pdb
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.AssemblyInfoInputs.cache
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.AssemblyInfo.cs
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.csproj.CoreCompileInputs.cache
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.dll
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/refint/gestionEmpleados.dll
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.pdb
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/gestionEmpleados.genruntimeconfig.cache
+/home/Coder/Documentos/csharp/gestionEmpleados/obj/Debug/net9.0/ref/gestionEmpleados.dll
